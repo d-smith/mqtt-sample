@@ -8,6 +8,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mosca": "^0.25.1"
+    "mosca": ">=2.8.2"
   }
 }
